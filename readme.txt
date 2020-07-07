@@ -1,3 +1,2 @@
 Hello World
-Hello die zweite
-Moin
+Hello 
